@@ -1,2 +1,3 @@
 # CodeClause_projectt
-Movie Analysis
+1.Stock Market Prediction
+2.Wine Quality Prediction
